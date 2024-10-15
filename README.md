@@ -1,4 +1,4 @@
-# AI3-Salary_Scale_Calculation
+# AI-Based-Salary-Scale-Calculation-Project
 
 ## Polynomial Regression Model
 
